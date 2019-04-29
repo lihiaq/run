@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunTLM>
+  <idCounter>132</idCounter>
+  <userName name="runTLM" password="12345">
+    <game gameCode="131" isPublished="false">
+      <name>GHFGHFG</name>
+      <category>noy ther</category>
+      <answer correct="false" type="t">%d7%9e%d7%94%d7%94%d7%94</answer>
+      <answer correct="false" type="t">%d7%9e%d7%94%d7%94%d7%94</answer>
+      <answer correct="false" type="t">%d7%a0%d7%95%d7%99%d7%95%d7%a9</answer>
+      <answer correct="false" type="p">uploadedFiles/09_02_19-14_35_21.jpg</answer>
+    </game>
+    <game gameCode="130" isPublished="false">
+      <name>%2c%2c</name>
+      <category />
+    </game>
+    <game gameCode="111" isPublished="false">
+      <name>כן לא שחור לבן</name>
+      <category>כן </category>
+      <answer correct="false" type="t">ומי יחזיר אותך אלייי</answer>
+      <answer correct="false" type="t">נוי</answer>
+      <answer correct="false" type="t">נוי2</answer>
+    </game>
+    <game gameCode="101" isPublished="True">
+      <name>זהה את המאכל</name>
+      <category>המאכלים המותרים לכלבים</category>
+      <answer correct="false" type="t">%d7%90%d7%92%d7%95%d7%96%d7%99%d7%9d</answer>
+      <answer correct="false" type="t">%d7%a9%d7%a7%d7%93%d7%99%d7%9d</answer>
+      <answer correct="false" type="t">%d7%a9%d7%95%d7%9e%d7%9f</answer>
+      <answer correct="false" type="t">%d7%a2%d7%a6%d7%9e%d7%95%d7%aa</answer>
+      <answer correct="false" type="t">%d7%a9%d7%96%d7%99%d7%a3</answer>
+      <answer correct="false" type="t">%d7%93%d7%92+%d7%a0%d7%90</answer>
+      <answer correct="false" type="t">%d7%91%d7%a9%d7%a8+%d7%a0%d7%90</answer>
+      <answer correct="false" type="t">%d7%97%d7%98%d7%99%d7%a3+%d7%aa%d7%a4%d7%95%d7%a6%d7%99%d7%a4%d7%a1</answer>
+      <answer correct="false" type="t">%d7%97%d7%98%d7%99%d7%a3+%d7%93%d7%95%d7%91%d7%95%d7%a0%d7%99%d7%9d</answer>
+      <answer correct="false" type="t">%d7%9e%d7%9c%d7%97</answer>
+      <answer correct="false" type="t">%d7%a7%d7%95%d7%9c%d7%94</answer>
+      <answer correct="false" type="t">%d7%90%d7%92%d7%95%d7%96+%d7%9e%d7%95%d7%a1%d7%a7%d7%98</answer>
+      <answer correct="false" type="t">%d7%9b%d7%93%d7%95%d7%a8+%d7%9c%d7%9b%d7%90%d7%91%d7%99+%d7%a8%d7%90%d7%a9</answer>
+      <answer correct="false" type="t">%d7%a1%d7%95%d7%93%d7%94+%d7%9c%d7%a9%d7%aa%d7%99%d7%99%d7%94</answer>
+      <answer correct="false" type="t">%d7%90%d7%91%d7%a7%d7%aa+%d7%90%d7%a4%d7%99%d7%99%d7%94</answer>
+      <answer correct="false" type="t">%d7%aa%d7%a8%d7%95%d7%a4%d7%95%d7%aa</answer>
+      <answer correct="false" type="t">%d7%91%d7%a6%d7%a7+%d7%a9%d7%9e%d7%a8%d7%99%d7%9d</answer>
+      <answer correct="false" type="t">%d7%a7%d7%a6%d7%99%d7%a6%d7%95%d7%aa+%d7%91%d7%a8%d7%95%d7%98%d7%91+%d7%a2%d7%92%d7%91%d7%a0%d7%99%d7%95%d7%aa</answer>
+      <answer correct="false" type="t">%d7%a2%d7%95%d7%a3+%d7%9e%d7%aa%d7%95%d7%a7</answer>
+      <answer correct="true" type="t">%d7%91%d7%a0%d7%a0%d7%94</answer>
+      <answer correct="true" type="p">uploadedFiles/10_10_18-19_37_32.jpg</answer>
+      <answer correct="true" type="p">uploadedFiles/10_10_18-19_37_07.jpg</answer>
+      <answer correct="true" type="p">uploadedFiles/10_10_18-19_36_32.jpg</answer>
+      <answer correct="true" type="p">uploadedFiles/10_10_18-19_35_52.jpg</answer>
+      <answer correct="true" type="t">%d7%a1%d7%98%d7%99%d7%99%d7%a7+%d7%a2%d7%9c+%d7%94%d7%92%d7%a8%d7%99%d7%9c</answer>
+      <answer correct="true" type="t">%d7%a7%d7%a6%d7%99%d7%a6%d7%aa+%d7%91%d7%a9%d7%a8</answer>
+      <answer correct="true" type="t">%d7%a2%d7%95%d7%a3</answer>
+      <answer correct="false" type="p">uploadedFiles/10_10_18-19_34_36.jpg</answer>
+      <answer correct="false" type="t">%d7%91%d7%99%d7%a6%d7%94+%d7%97%d7%99%d7%94</answer>
+      <answer correct="false" type="t">%d7%9e%d7%a1%d7%98%d7%99%d7%a7</answer>
+      <answer correct="false" type="t">%d7%90%d7%92%d7%95%d7%96%d7%99%d7%9d</answer>
+      <answer correct="false" type="p">uploadedFiles/10_10_18-19_32_19.jpg</answer>
+      <answer correct="false" type="p">uploadedFiles/10_10_18-19_31_35.jpg</answer>
+      <answer correct="false" type="p">uploadedFiles/10_10_18-19_31_15.jpg</answer>
+      <answer correct="false" type="t">%d7%a9%d7%95%d7%a7%d7%95%d7%9c%d7%93</answer>
+      <answer correct="true" type="t">%d7%97%d7%91%d7%99%d7%aa%d7%94</answer>
+      <answer correct="true" type="t">%d7%90%d7%95%d7%a8%d7%96</answer>
+      <answer correct="false" type="t">%d7%a2%d7%a0%d7%91%d7%99%d7%9d</answer>
+      <answer correct="false" type="p">uploadedFiles/10_10_18-19_26_30.jpg</answer>
+      <answer correct="true" type="p">uploadedFiles/10_10_18-19_26_14.jpg</answer>
+      <answer correct="true" type="t">%d7%9e%d7%9c%d7%a4%d7%a4%d7%95%d7%9f</answer>
+    </game>
+    <game gameCode="102" isPublished="False">
+      <name>זהה את היונקים</name>
+      <category>כל בעלי החיים מסוג יונק</category>
+      <answer correct="false" type="t">טווס</answer>
+      <answer correct="false" type="t">צב</answer>
+      <answer correct="false" type="t">חיפושית</answer>
+      <answer correct="true" type="t">קנגורו</answer>
+      <answer correct="true" type="t">כלב</answer>
+      <answer correct="true" type="t">אריה</answer>
+      <answer correct="true" type="t">צבי</answer>
+      <answer correct="false" type="t">תנשמת</answer>
+      <answer correct="false" type="t">ג'וקים</answer>
+      <answer correct="false" type="t">תולעת</answer>
+      <answer correct="true" type="t">דולפין</answer>
+      <answer correct="true" type="t">חתול</answer>
+      <answer correct="true" type="t">פרה</answer>
+      <answer correct="true" type="t">סוס</answer>
+      <answer correct="true" type="t">זברה</answer>
+      <answer correct="true" type="t">ג'ירפה</answer>
+      <answer correct="true" type="t">קרנף</answer>
+      <answer correct="true" type="t">קוף</answer>
+      <answer correct="false" type="t">פרפר</answer>
+      <answer correct="false" type="t">כריש</answer>
+      <answer correct="false" type="t">דג</answer>
+      <answer correct="true" type="t">בן אדם</answer>
+      <answer correct="false" type="t">תוכי</answer>
+      <answer correct="false" type="t">נחש</answer>
+      <answer correct="true" type="t">לוויתן</answer>
+    </game>
+  </userName>
+</RunTLM>

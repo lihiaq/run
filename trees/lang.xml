@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dictionary>
+  <text value="game">
+    <he-il>משחק</he-il>
+    <en-us>Game</en-us>
+  </text>
+  <text value="Editor">
+    <he-il>עורך</he-il>
+    <en-us>Editor</en-us>
+  </text>
+  <text value="HowToPlay">
+    <he-il>איך משחקים</he-il>
+    <en-us>How To Play</en-us>
+  </text>
+  <text value="About">
+    <he-il>אודות</he-il>
+    <en-us>About</en-us>
+  </text>
+  <text value="GamesRep">
+    <he-il>מאגר משחקים</he-il>Games Repository
+    <en-us>Games Bank</en-us>
+  </text>
+    <text value="Lang">
+    <he-il>English</he-il>
+    <en-us>עברית</en-us>
+  </text>
+  <text value="RunTLM">
+    <he-il>רוץ בטל"מ</he-il>
+    <en-us>Run Tlm</en-us>
+  </text>
+  <text value="SpecAndDevelopment">
+    <he-il>אפיון ופיתוח:</he-il>
+    <en-us>Characterization and development:</en-us>
+  </text>
+  <text value="NoyAndLihi">
+    <he-il>נוי מאיר וליהי עקיבא</he-il>
+    <en-us>Noy Meir and Lihi Akiva</en-us>
+  </text>
+  <text value="finalProject">
+    <he-il>אופיין ופותח במסגרת פרויקט גמר</he-il>
+    <en-us> Characterized and developed as part of a final project</en-us>
+  </text>
+  <text value="faculty">
+    <he-il>הפקולטה לטכנולוגיות למידה</he-il>
+    <en-us>Instructional Technology Faculty</en-us>
+  </text>
+  <text value="HIT">
+    <he-il>המכון הטכנולוגי חולון</he-il>
+    <en-us>Holon Institute Of Technilogy</en-us>
+  </text>
+  <text value="myGamesTitle">
+    <he-il>המשחקים שלי</he-il>
+    <en-us>My Games</en-us>
+  </text>
+  <text value="newGame">
+    <he-il>משחק חדש</he-il>
+    <en-us>New Game</en-us>
+  </text>
+  <text value="newGameTooltip">
+    <he-il>יש להזין שם משחק</he-il>
+    <en-us>Enter a game name</en-us>
+  </text>
+  <text value="gameNameTextbox">
+    <he-il>שם המשחק</he-il>
+    <en-us>Game Name</en-us>
+  </text>
+  <text value="gameNameSample">
+    <he-il>לדוגמה: מאכלים מותרים לכלבים</he-il>
+    <en-us>Example: Allowd food for dogs</en-us>
+  </text>
+  <text value="createGame">
+    <he-il>צור משחק</he-il>
+    <en-us>Create Game</en-us>
+  </text>
+  <text value="gameName">
+    <he-il>שם המשחק</he-il>
+    <en-us>Game Name</en-us>
+  </text>
+  <text value="gameCode">
+    <he-il>קוד משחק</he-il>
+    <en-us>Game Code</en-us>
+  </text>
+  <text value="edit">
+    <he-il>עריכה</he-il>
+    <en-us>Edit</en-us>
+  </text>
+  <text value="delete">
+    <he-il>מחיקה</he-il>
+    <en-us>Delete</en-us>
+  </text>
+  <text value="publish">
+    <he-il>פרסום</he-il>
+    <en-us>Publish</en-us>
+  </text>
+  <text value="publishToolTip">
+    <he-il>תנאי סף לפרסום: 25 פריטים, 5 פריטים מכל קטגוריה, הנחיה לזיהוי</he-il>
+    <en-us>
+      Threshold for publication: 25
+      items, 5 items of each category,
+      Instructions
+    </en-us>
+  </text>
+  <text value="publishCheckboxToolTip">
+    <he-il>המשחק לא עומד בתנאי הפרסום</he-il>
+    <en-us>
+      The game doesn’t meet
+      publish conditions
+    </en-us>
+  </text>
+  <text value="share">
+    <he-il>שיתוף</he-il>
+    <en-us>Share</en-us>
+  </text>
+  <text value="shareTooltip">
+    <he-il> שיתוף משחק מאפשר לעורכים אחרים להעתיק את המשחק שלכם </he-il>
+    <en-us>Game sharing allows other editors to copy your game and make contact with you</en-us>
+  </text>
+  <text value="shareCheckboxTooltip">
+    <he-il>לא ניתן לשתף משחק מועתק \ שטרם פורסם</he-il>
+    <en-us>Copied / unpublished game can not be shared</en-us>
+  </text>
+  <text value="deletePopupH1">
+    <he-il> מחיקת משחק</he-il>
+    <en-us> Delete Game</en-us>
+  </text>
+  <text value="deletePopupH2">
+    <he-il>האם ברצונך למחוק את המשחק</he-il>
+    <en-us>Do you wish to delete the game</en-us>
+  </text>
+  <text value="deleteCencel">
+    <he-il>ביטול</he-il>
+    <en-us> Cancel</en-us>
+  </text>
+  <text value="deleteButton">
+    <he-il>מחק</he-il>
+    <en-us>Delete</en-us>
+  </text>
+  <text value="noGamesAlert">
+    <he-il>עוד לא יצרת משחקים</he-il>
+    <en-us>You have not created any games yet</en-us>
+  </text>
+  <text value="editGame">
+    <he-il>עריכת משחק</he-il>
+    <en-us>Edit Game</en-us>
+  </text>
+  <text value="condisions">
+    <he-il>תנאי סף לפרסום:</he-il>
+    <en-us>Publish Conditions:​</en-us>
+  </text>
+  <text value="condision1">
+    <he-il>הנחיה לזיהוי</he-il>
+    <en-us>Instruction​​</en-us>
+  </text>
+  <text value="condision2">
+    <he-il>25 פריטים סך הכל</he-il>
+    <en-us>25 Items​​​</en-us>
+  </text>
+  <text value="condision3">
+    <he-il>5 פריטים בכל קטגוריה​​​ ​</he-il>
+    <en-us>5 Items in each category</en-us>
+  </text>
+
+  <text value="back">
+    <he-il>חזור</he-il>
+    <en-us>back</en-us>
+  </text>
+  <text value="tooltipBack">
+    <he-il>אל דאגה, המשחק נשמר לאחר לחיצה על כפתורי הוסף, שמור ומחק</he-il>
+    <en-us>Don’t worry, the game is saved after clicking Save, Add and Delete</en-us>
+  </text>
+  <text value="categoryTitle">
+    <he-il> היכנסו לצינורות של</he-il>
+    <en-us>Enter the pipes of​</en-us>
+  </text>
+  <text value="save">
+    <he-il>שמור</he-il>
+    <en-us>Save</en-us>
+  </text>
+  <text value="add">
+    <he-il>הוספה:</he-il>
+    <en-us>Add:</en-us>
+  </text>
+  <text value="insertText">
+    <he-il>הזן טקסט כאן</he-il>
+    <en-us>Insert text here</en-us>
+  </text>
+
+  <text value="Or">
+    <he-il>או</he-il>
+    <en-us>Or</en-us>
+  </text>
+  <text value="correct">
+    <he-il>פריט נכון</he-il>
+    <en-us>Correct Item</en-us>
+  </text>
+  <text value="incorrect">
+    <he-il>פריט לא נכון</he-il>
+    <en-us>Inorrect Item</en-us>
+  </text>
+  <text value="addItem">
+    <he-il>הוסף</he-il>
+    <en-us>Add</en-us>
+  </text>
+  <text value="totalItems">
+    <he-il>הכנסת סך הכל 0 פריטים</he-il>
+    <en-us>
+      Total 0 items
+    </en-us>
+  </text>
+  <text value="totalCorrectItems">
+    <he-il>פריטים נכונים</he-il>
+    <en-us>Correct items</en-us>
+  </text>
+  <text value="totalIncorrectItems">
+    <he-il>פריטים לא נכונים</he-il>
+    <en-us>Incorrect items</en-us>
+  </text>
+  <text value="deleteItemPopUpH1">
+    <he-il>מחיקת פריט</he-il>
+    <en-us>
+      Delete Item​
+    </en-us>
+  </text>
+  <text value="deleteItemPopUp">
+    <he-il>האם ברצונך למחוק את הפריט</he-il>
+    <en-us>Are you sure you want to delete the selected item?​</en-us>
+  </text>
+  <text value="imageUploadPopupH1">
+    <he-il>העלאת תמונה</he-il>
+    <en-us>Picture Upload​</en-us>
+  </text>
+  <text value="imageUploadPopup">
+    <he-il>
+      ניתן להעלות  קבצים רק מסוג:
+      jpeg, jpg png, gif
+    </he-il>
+    <en-us>Supported files type: jpeg, png, gif​​</en-us>
+  </text>
+  <text value="OK">
+    <he-il>אישור</he-il>
+    <en-us>OK</en-us>
+  </text>
+  <text value="GamesRep">
+    <he-il>מאגר משחקים</he-il>
+    <en-us>Games Repository</en-us>
+  </text>
+  <text value="SearchHere">
+    <he-il>הקלד טקסט לחיפוש...</he-il>
+    <en-us>Type text for search...</en-us>
+  </text>
+  <text value="Watching">
+    <he-il>צפייה</he-il>
+    <en-us>Watching</en-us>
+  </text>
+  <text value="creator">
+    <he-il>יוצר</he-il>
+    <en-us>creator</en-us>
+  </text>
+  <text value="Copies">
+    <he-il>מספר העתקות</he-il>
+    <en-us>Copies</en-us>
+  </text>
+  <text value="CopyGame">
+    <he-il>העתק משחק</he-il>
+    <en-us>Copy Game</en-us>
+  </text>
+</Dictionary>
+
